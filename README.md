@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a brazilian front-end developer! HTML, CSS and JavaScript are my jams. I'll get into back-end soon enough.
+
+I'm transitioning from my previous career of ten years as a civil engineer. As much as exciting and challeging it was, I've come to understand that coding is my passion.
+
+Here's how you can reach me:<br><br>
+<a href="https://www.linkedin.com/in/pierri-eduardo-rodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
+<a href="https://www.instagram.com/pierri88/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+[![Pierri's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrirodrigues)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **pierrirodrigues/pierrirodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
